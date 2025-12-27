@@ -56,7 +56,7 @@ This project demonstrates Windows authentication log analysis using Elastic SIEM
 
 ## 🏗️ **Architecture Flow Diagram:**
 <p align="center">
-  <img src="https://github.com/himadri2324/AuthLog/blob/main/AuthLog%20Architecture%20Flow%20Diagram.png" 
+  <img src="https://github.com/himadri2324/AuthLog/blob/main/AuthLog%20Architecture%20flow%20Diagram.png" 
        alt="AuthLog Architecture Diagram" width="750"/>
 </p>
 Visual representation of Windows authentication events flowing from log generation through Elastic SIEM detection to analyst investigation in a controlled lab environment.
