@@ -48,7 +48,7 @@ This project demonstrates Windows authentication log analysis using Elastic SIEM
 
 ## 🖧 **Network Architecture Diagram:**
 <p align="center">
-<img src=""
+<img src="https://github.com/himadri2324/AuthLog/blob/main/AuthLog%20Network%20Architecture%20Diagram.png"
   alt="AuthLog Network Architecture Diagram" width="750"/>
   </p>
 
